@@ -1,3 +1,3 @@
 # Polynomial
 Practice example for object-oriented programming in C++.
-This polynomial class is created by inheriting the nvec class.
+A class for operations on polynomials is created by inheriting the class nvec.
